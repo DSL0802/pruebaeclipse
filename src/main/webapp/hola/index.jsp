@@ -9,6 +9,8 @@
 <body>
 	<h1>Hola mundo xd</h1>
 	<h2>Siuuuu</h2>
+	<h1>¿Si subió?</h1>
+	<h2>Si ves esto si subió, siuuuuu</h2>>
 
 	TABLA DE CUATRO FILAS TRES COLUMNAS
 	<table border="2" width="300">
